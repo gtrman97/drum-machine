@@ -20,9 +20,12 @@ body {
     min-width: 15vh;
     min-height: 15vh;
     text-align: center;
-
 }
 kbd {
     margin: auto;
     color: white;
+}
+span {
+    color: yellow;
+    text-transform: uppercase;
 }

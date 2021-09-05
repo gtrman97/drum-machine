@@ -16,6 +16,7 @@ body {
 }
 .drum {
     border: solid 5px black;
+    border-radius: 5px;
     margin: 0.75%;
     min-width: 15vh;
     min-height: 15vh;
@@ -24,8 +25,11 @@ body {
 kbd {
     margin: auto;
     color: white;
+    font-size: 350%;
+    font-weight: bold;
 }
 span {
     color: yellow;
     text-transform: uppercase;
+    display: block;
 }

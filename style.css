@@ -11,14 +11,12 @@ body {
 #drum-kit {
     display: flex;
     justify-content: space-between;
-    border: solid 2px black;
     width: 100vw;
     min-height: 20%;
 }
 .drum {
-    border: solid 2px red;
-    padding: 0;
-    margin: 1%;
-    min-width: 7.5%;
-    max-height: 17.5vh;
+    border: solid 5px black;
+    margin: 0.75%;
+    min-width: 15vh;
+    min-height: 15vh;
 }

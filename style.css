@@ -10,13 +10,13 @@ body {
     display: flex;
     justify-content: space-between;
     border: solid 2px black;
-    min-width: 90%;
-    min-height: 25%;
+    width: 100vw;
+    min-height: 20%;
 }
 .drum {
     border: solid 2px red;
-    padding: 5%;
-    margin: 1.5%;
-    /* min-width: 50%; */
-    /* min-height: 50%; */
+    padding: 0.25%;
+    margin: 1%;
+    min-width: 7.5%;
+    max-height: 17.5vh;
 }

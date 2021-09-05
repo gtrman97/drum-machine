@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0;
-
+    background-image: url('background.jpg');
 }
 #drum-kit {
     display: flex;

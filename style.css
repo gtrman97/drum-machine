@@ -1,0 +1,12 @@
+#drum-kit {
+    display: flex;
+    justify-content: space-between;
+    border: solid 2px black;
+    /* min-width: 90%; */
+    min-height: 50px;
+}
+.drum {
+    border: solid 2px red;
+    /* min-width: 50%; */
+    /* min-height: 50%; */
+}

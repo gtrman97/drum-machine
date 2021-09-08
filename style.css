@@ -23,6 +23,7 @@ body {
     text-align: center;
 }
 kbd {
+    display: block;
     margin: auto;
     color: white;
     font-size: 350%;

@@ -17,10 +17,17 @@ body {
 .drum {
     border: solid 5px black;
     border-radius: 5px;
-    margin: 0.75%;
+    margin: 1rem;
+    transition: all 0.7s;
+    font-size: 1.5rem;
     min-width: 15vh;
     min-height: 15vh;
     text-align: center;
+}
+.playing {
+    transform: scale(1.1);
+    border-color: yellow;
+    box-shadow: 0 0 10px yellow;
 }
 kbd {
     display: block;
